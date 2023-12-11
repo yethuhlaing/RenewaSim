@@ -3,10 +3,18 @@
 Welcome to RenewaSim, where innovation meets sustainable energy solutions!
 
 RenewaSim is a groundbreaking Real-time Environmental Simulation & Infrastructure Management project that empowers users to explore and design renewable energy solutions in a dynamic, virtual environment. With a suite of advanced features, this simulation platform offers an immersive experience in the world of clean energy technology.
+
+![Demo Thumbnail](https://github.com/yethuhlaing/RenewaSim/assets/112906488/4f742090-4546-4d12-b295-d03e102674d6)
+
 ## Demonstration
-  Youtube Link - https://www.youtube.com/watch?v=_Mmly3AZqAQ
+
+  Play it here - https://renewa-sim.netlify.app/
   
+  Watch it here - https://www.youtube.com/watch?v=_Mmly3AZqAQ
+
+  Understand it here - https://www.canva.com/design/DAF2r3AJ-U0/IDP3oEh6X54TN7xtZAe24Q/edit
   
+ 
 ## Technology Stack:
 
   - Unity
