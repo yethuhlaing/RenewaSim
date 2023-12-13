@@ -43,6 +43,11 @@ RenewaSim is a groundbreaking Real-time Environmental Simulation & Infrastructur
 
 ☀️ Solar Panel Energy Estimation: Estimate solar panel energy output based on various factors like location, weather, and panel configurations.
 
+## Future Implementation
+- Reducing the bundle size to make the WebGL smoother
+- Code Optimization
+- User alert box to catch errors
+
 ## Exception
 - The actual time of the city is given random values for the demonstration
 - The rainfall depends the rainIntensity of the city which is also given the random values.
