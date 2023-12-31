@@ -8,13 +8,23 @@ RenewaSim is a groundbreaking Real-time Environmental Simulation & Infrastructur
 
 ## Demonstration
 
-  Play it here - https://renewa-sim.netlify.app/
+  Play it here - [https://renewa-sim.netlify.app/](https://yethuhlaing.itch.io/renewasim)
   
   Watch it here - https://www.youtube.com/watch?v=_Mmly3AZqAQ
 
   Understand it here - https://www.canva.com/design/DAF2r3AJ-U0/IDP3oEh6X54TN7xtZAe24Q/edit
   
- 
+## Control keys:
+
+  - W - Forwards
+  - S - Backwards
+  - A - Left
+  - D - Right
+  - Q - Rotate Left
+  - E - Rotate Right
+  - Ctrl - Downside
+  - Space - Upside
+    
 ## Technology Stack:
 
   - Unity
