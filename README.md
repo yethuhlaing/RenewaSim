@@ -8,7 +8,7 @@ RenewaSim is a groundbreaking Real-time Environmental Simulation & Infrastructur
 
 ## Demonstration
 
-  Play it here - [https://renewa-sim.netlify.app/](https://yethuhlaing.itch.io/renewasim)
+  Play it here - https://yethuhlaing.itch.io/renewasim
   
   Watch it here - https://www.youtube.com/watch?v=_Mmly3AZqAQ
 
